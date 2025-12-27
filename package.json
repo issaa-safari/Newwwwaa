@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-webhook-safari",
+  "version": "1.0.0",
+  "description": "WhatsApp Business API Webhook for Safari Adventure Riders",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["whatsapp", "webhook", "api"],
+  "author": "Safari Adventure Riders",
+  "license": "MIT"
+}
